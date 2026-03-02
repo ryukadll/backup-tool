@@ -1,5 +1,11 @@
 # Server Backup Bot
 
+
+![standard](https://github.com/user-attachments/assets/bf7e6fd4-3593-4e4b-9a94-30b710bb2562)
+
+
+
+
 A advanced **Discord.js** bot that lets you **backup, restore, and wipe Discord server configurations** using slash commands.  
 Useful for testing servers, cloning setups, or keeping a safe copy of your server structure.
 
