@@ -181,4 +181,4 @@ If you find a bug or want a feature, open an issue.
 
 ---
 
-Enjoy safe Discord server backups! 🚀
+Enjoy safe Discord server backups!
