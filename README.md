@@ -14,7 +14,7 @@ Useful for testing servers, cloning setups, or keeping a safe copy of your serve
 ## Features
 
 - **Backup Server**
-  - Saves server structure (channels, roles, permissions, etc.)
+  - Saves server structure (channels, roles, permissions, etc.) 
 - **Restore Backup**
   - Restore a saved backup to a server
 - **Wipe Server**
